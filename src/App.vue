@@ -3,7 +3,7 @@
     <myHead></myHead>
     <br><br><br>
     <MyMain></MyMain>
-    <router-link to="/content">点这里</router-link>
+    <router-link to="/content">大家来点这里</router-link>
     <router-view/>
   </div>
 </template>
