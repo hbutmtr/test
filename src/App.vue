@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <myHead></myHead>
+    <br><br><br>
     <MyMain></MyMain>
     <router-link to="/content">点这里</router-link>
     <router-view/>
